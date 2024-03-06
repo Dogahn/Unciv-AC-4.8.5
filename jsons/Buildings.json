@@ -13,6 +13,7 @@
 	 "cannotBeBuiltWith": "Frankincense",
 	"uniques": ["Consumes [1] [Incense]","Provides [1] [Myrrh]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>","Destroyed when the city is captured"],
 	"requiredTech": "Calendar"
+	"comment": "Converts Incense to Myrrh"
 	},
 			{
         "name": "Frankincense",
@@ -20,7 +21,8 @@
         "cost": -1,
 	 "cannotBeBuiltWith": "Myrrh",
 	"uniques": ["Consumes [1] [Incense]","Provides [1] [Frankincense]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>","Destroyed when the city is captured"],
-	"requiredTech": "Calendar"
+	"requiredTech": "Calendar",
+	"comment": "Converts Incense to Frankincense"
 	},
 	{
 		"name": "Ziggurat",
@@ -34,7 +36,8 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Faith] from [River] tiles [in this city]"],
 		"requiredBuilding": "Shrine",
-		"requiredTech": "Construction"
+		"requiredTech": "Construction",
+		"comment": "Adds 1 Scientist slot"
 	},
 	{
 		"name": "Synagogue",
