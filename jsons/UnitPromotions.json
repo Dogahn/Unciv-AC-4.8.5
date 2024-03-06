@@ -5,8 +5,7 @@
 	},
     {
         "name": "Steppe Hunter",
-        "uniques": ["[+1] movement in [Plains]","[+1] movement in [Grassland]"],
-	    // Consider "uniques": ["Double Movement in [{non-[Rough terrain]} {Plains}],[{non-[Rough terrain]} {Grassland}],
+        "uniques": ["Double movement in [{non-[Rough terrain]} {Plains}]","Double movement in [{non-[Rough terrain]} {Grassland}]"],
 	},
     {
         "name": "Horseback Rider",
