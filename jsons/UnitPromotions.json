@@ -5,7 +5,7 @@
 	},
     {
         "name": "Steppe Hunter",
-        "uniques": ["Can receive bonus movement promotion"],
+        "uniques": ["[+1] movement in [Plains]","[+1] movement in [Grassland]",
 	},
     {
         "name": "Horseback Rider",
